@@ -1,0 +1,26 @@
+{
+  "name": "S206-Prova2-Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triangulodepascal/S206-Prova2-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triangulodepascal/S206-Prova2-Cypress/issues"
+  },
+  "homepage": "https://github.com/triangulodepascal/S206-Prova2-Cypress#readme",
+  "dependencies": {
+    "cypress": "^12.0.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
